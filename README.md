@@ -8,9 +8,9 @@ This repository is the **product overview**. Open-source content is organized in
 
 | Repository | Hub | Description |
 | --- | --- | --- |
-| [OpenBridge-Robot-Hub](https://github.com/Zeroth-OpenBridge/OpenBridge-Robot-Hub) | Robot Hub | Connects the robot to the hardware boundary: device integration, environment setup, and enclosure / interface / accessory specifications |
-| [OpenBridge-Skill-Hub](https://github.com/Zeroth-OpenBridge/OpenBridge-Skill-Hub) | Skill Hub | Skill development: SDK, API, skill templates, and official examples |
-| [OpenBridge-Simulation-Hub](https://github.com/Zeroth-OpenBridge/OpenBridge-Simulation-Hub) | Simulation Hub | Simulation and validation: simulation examples, getting-started code, debugging, and FAQs |
+| [OpenBridge-Robot-Hub](https://github.com/ZerothOpenBridge/OpenBridge-Robot-Hub) | Robot Hub | Connects the robot to the hardware boundary: device integration, environment setup, and enclosure / interface / accessory specifications |
+| [OpenBridge-Skill-Hub](https://github.com/ZerothOpenBridge/OpenBridge-Skill-Hub) | Skill Hub | Skill development: SDK, API, skill templates, and official examples |
+| [OpenBridge-Simulation-Hub](https://github.com/ZerothOpenBridge/OpenBridge-Simulation-Hub) | Simulation Hub | Simulation and validation: simulation examples, getting-started code, debugging, and FAQs |
 
 Document version: V1.0  
 Applicable model: 小桥 / Zeroth Bridge
